@@ -4,6 +4,7 @@
     "name": "Bruno",
     "url": "cozy.io"
   },
+  "category": "partner",
   "license": "MIT",
   "name": "mini-app",
   "permissions": {},
